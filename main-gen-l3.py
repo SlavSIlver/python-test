@@ -1,6 +1,7 @@
 from functools import wraps
 from time import time
 
+#hello generators
 
 def pow(up_to, e=2):
     results = []
